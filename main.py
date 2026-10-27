@@ -1,5 +1,6 @@
-from utils import add, sub
+from utils import add, sub, mul
 
 print("Калькулятор")
 print("2 + 3 =", add(2, 3))
 print("7 - 4 =", sub(7, 4))
+print("3 * 5 =", mul(3, 5))
